@@ -1,6 +1,8 @@
 # bun-core-devcontainer
 VSCode DevContainer for the core [Bun](https://github.com/oven-sh/bun) repo development environment.
 
+NOTE: This is not intended for use for Bun consumer javascript app projects. 
+
 ## Usage
 
 Copy .devcontainer to the root of your bun repo.
