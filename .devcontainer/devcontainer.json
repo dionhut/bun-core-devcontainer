@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options
 {
 	"name": "Bun Development Environment",
-	"image": "oven/bun-devcontainer:1.0.11",
+	"image": "dionhut/bun-core-devcontainer:latest",
 	"customizations": {
 		"vscode": {
 			"extensions": [
